@@ -1,10 +1,10 @@
 ## About me
 QAエンジニアとして4年。
 テスト設計の考え方を活かして、小規模なWebアプリを個人開発しています。
-現在は「QA観点で開発するtodoアプリ」に取り組んでいます。
+現在は「TODO_APP_TDD」レポジトリにて、QA観点を意識した開発に取り組んでいます。
 
 ## Repositoriesの概要
-- TODO_APP_TDD：QA観点で開発中のtodoアプリ
+- TODO_APP_TDD：QA観点を意識して開発中のtodoアプリ
 - todo-app：AIエージェントの使い方を学びながら開発したtodoアプリ
 
 <!--
