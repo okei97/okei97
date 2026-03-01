@@ -5,7 +5,7 @@ QAエンジニアとして4年。
 
 ## Repositoriesの概要
 - TODO_APP_TDD：QA観点を意識して開発中のtodoアプリ
-- todo-app：AIエージェントの使い方を学びながら開発したtodoアプリ
+- BREAKOUT-GAME：javaで開発中のブロック崩しゲーム
 
 <!--
 **okei97/okei97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
